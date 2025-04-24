@@ -24,3 +24,14 @@ pip install -r requirements.txt
 
  Run
 Open the notebook and run all cells sequentially.
+
+Dataset used
+-https://www.kaggle.com/datasets/jessicali9530/lfw-dataset
+-https://www.kaggle.com/datasets/msambare/fer2013
+
+Google Drive Link
+
+https://drive.google.com/drive/folders/1x3g-1zxlNFUKnWLebp4nVJLNUt8Nfov3?usp=drive_link
+
+
+
