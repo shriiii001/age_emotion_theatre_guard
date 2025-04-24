@@ -1,0 +1,8 @@
+
+Angry - Precision: 0.73, Recall: 0.71
+Disgust - Precision: 0.81, Recall: 0.79
+Fear - Precision: 0.75, Recall: 0.72
+Happy - Precision: 0.88, Recall: 0.85
+Sad - Precision: 0.70, Recall: 0.68
+Surprise - Precision: 0.83, Recall: 0.80
+Neutral - Precision: 0.74, Recall: 0.76
