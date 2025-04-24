@@ -15,7 +15,6 @@ This project detects facial emotions using a basic CNN trained on the FER-2013 d
 
  Files
 - `emotion_face_model_training.ipynb` : Training notebook
-- `emotion_face_model.pth` : Saved model weights
 - `metrics_report.txt` : Classification report
 - `requirements.txt` : List of dependencies
 
