@@ -31,7 +31,11 @@ Dataset used
 
 Google Drive Link
 
+Face Recognition Dataset (LFW):
 https://drive.google.com/drive/folders/1x3g-1zxlNFUKnWLebp4nVJLNUt8Nfov3?usp=drive_link
+
+Emotion Dataset (FER-2013 CSV):
+https://drive.google.com/drive/folders/1KyF0YPby_q_s6OGC3pO5j8I3c2zejHks?usp=drive_link
 
 
 
